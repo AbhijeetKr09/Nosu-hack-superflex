@@ -33,9 +33,6 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className="hero-image">
-          <img src="/assets/hero-image.png" alt="Career Guidance" />
-        </div>
       </section>
 
       {/* Features Section */}
