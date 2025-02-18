@@ -9,14 +9,14 @@ This project is a **responsive student interface** built using **React**, develo
 
 ---
 
-## 🔥 Why Superflex AI?  
+## 🔥 How Superflex AI helped me?  
 Developing in **React** can sometimes be **complex**, especially for beginners. But with **@SuperflexAI**, the process was **smooth, fast, and effortless**:  
 ✅ **Quickly understood prompts** and requirements.  
 ✅ **Direct Figma integration**—imported designs with ease.  
 ✅ **Image-to-code support** for seamless development.  
-✅ **Minimal explanations needed**—AI-generated components fit perfectly!  
-✅ **Best when you generate code component wise** - you can give it complete design at once but for better accuracy you can explain ai component by component
-✅ **best when used all three at once** - if you use image explaination as i gave with a little prompt for understanding image and design from the figma it better understand the requirements.
+✅ **Minimal explanations needed when we have good prompt and image reference**—AI-generated components fit perfectly!  
+✅ **Best when I generate code component wise** - you can give it complete design at once but for better accuracy you can explain ai component by component
+✅ **best when I used all three feature at once** - if you use image explaination as i gave with a little prompt for understanding image and design from the figma it better understand the requirements.
 
 Superflex AI eliminated the **usual coding struggles**, making front-end dev feel like magic! ✨  
 
