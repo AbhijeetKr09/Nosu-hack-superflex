@@ -15,6 +15,8 @@ Developing in **React** can sometimes be **complex**, especially for beginners. 
 ✅ **Direct Figma integration**—imported designs with ease.  
 ✅ **Image-to-code support** for seamless development.  
 ✅ **Minimal explanations needed**—AI-generated components fit perfectly!  
+✅ **Best when you generate code component wise** - you can give it complete design at once but for better accuracy you can explain ai component by component
+✅ **best when used all three at once** - if you use image explaination as i gave with a little prompt for understanding image and design from the figma it better understand the requirements.
 
 Superflex AI eliminated the **usual coding struggles**, making front-end dev feel like magic! ✨  
 
@@ -22,7 +24,7 @@ Superflex AI eliminated the **usual coding struggles**, making front-end dev fee
 
 ## 🎨 Features  
 ✔ **Responsive 4-page Interface** 📱💻  
-✔ **Easy-to-navigate design** inspired by Figma  
+✔ **Easy-to-navigate design**
 ✔ **Functional buttons** on the Home Page:  
    - 🏠 **Home**  
    - 📚 **Assessments**  
@@ -36,7 +38,8 @@ Superflex AI eliminated the **usual coding struggles**, making front-end dev fee
 - **Superflex AI** 🤖  
 - **Figma for UI Design** 🎨  
 
----
+## 🎨 Figma Design  
+View the project design on Figma: [🔗 Click Here]([Your-Figma-Link-Here](https://www.figma.com/design/jwHqdpQHpfB4s5uq2gQNlI/Untitled?node-id=0-1&t=cEfZXAjydcNTS92H-1))
 
 ## 👀 Live Preview & Setup  
 💡 To run the project locally:  
