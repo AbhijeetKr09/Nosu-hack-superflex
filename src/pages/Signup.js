@@ -11,7 +11,7 @@ const Signup = () => {
     <div className="auth-container">
       <div className="auth-left">
         <Link to="/" className="go-back">
-          <FaArrowLeft /> Back
+          <FaArrowLeft /> Go Back
         </Link>
         
         <Link to="/login" className="mobile-auth-link">
