@@ -3,7 +3,7 @@
 ### 🌟 Overview  
 This project is a **responsive student interface** built using **React**, developed within a **single day** with the help of **Superflex AI**! 🏆 The interface is designed to provide a seamless user experience with an intuitive layout and interactive components.  
 
-🔗 demo link: https://nosu-hack-superflex.vercel.app/
+🔗 demo link: https://nosu-hack-superflex.vercel.app/ \n
 🖼 **Project Screenshot**: ![View Image](https://imgur.com/a/SgNZARd)  
 
 ---
