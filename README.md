@@ -5,7 +5,7 @@ This project is a **responsive student interface** built using **React**, develo
 
 🔗 demo link: https://nosu-hack-superflex.vercel.app/
 
-🖼 **Project Screenshot**: ![View Image](https://imgur.com/a/SgNZARd)  
+🖼 **Project Screenshot**: [View Image](https://imgur.com/a/SgNZARd)  
 
 ---
 
