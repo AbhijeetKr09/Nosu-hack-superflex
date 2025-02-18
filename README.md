@@ -39,7 +39,7 @@ Superflex AI eliminated the **usual coding struggles**, making front-end dev fee
 - **Figma for UI Design** 🎨  
 
 ## 🎨 Figma Design  
-View the project design on Figma: 🔗 [Click Here]([https://www.figma.com/design/jwHqdpQHpfB4s5uq2gQNlI/Untitled?node-id=0-1&t=cEfZXAjydcNTS92H-1)
+View the project design on Figma: 🔗 [Click Here](https://www.figma.com/design/jwHqdpQHpfB4s5uq2gQNlI/Untitled?node-id=0-1&t=cEfZXAjydcNTS92H-1)
 
 ## 👀 Live Preview & Setup  
 💡 To run the project locally:  
